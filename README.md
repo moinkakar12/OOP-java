@@ -1,5 +1,8 @@
 # OOP-java
-Hi, I am Moin Khan.
-I am currently doing Bachelors in Information Technology.
-I am striving to learn Coding.
-I have studied Python and Java.
+class OopJava {
+  public static void main (String [] args )
+{
+   System.out.println("This respiratory is for the submission of assignments
+Of University");
+}
+}
