@@ -29,7 +29,7 @@ public class Contact {
         this.nickName = nickName;
         this.Company = company;
     }
-
+// Getters and Setters
     public String getFirstName() {
         return firstName;
     }
